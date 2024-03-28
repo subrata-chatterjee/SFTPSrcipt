@@ -1,0 +1,12 @@
+incoming_file_path = '/Working'
+
+outgoing_file_path = '/WORKING'
+
+archive_file_path = '/Archive'
+
+dest_username = 'sftpjob01'
+
+source_sftp_hostname = '00.000.000.00'
+dest_sftp_hostname = '00.000.000.00'
+
+source_username = 'sftpuser2'
